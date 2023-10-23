@@ -5,7 +5,7 @@
 
 <head> 
 	<style> 
-		.geeks{ 
+		geeks{ 
 			color: green; 
 			font-size: 25px; 
 		} 
