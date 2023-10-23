@@ -7,8 +7,7 @@
 Software Engineer, Data Scientist
 </p> 				 
 
-
-<h3 align="center">A passionate web developer from India</h3>
+<p>I'm a Software Engineer who is passionate about creating technology and build community. I have experience in programming languages such as Java and Python and web development technologies like HTML, CSS, and JavaScript. </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rawatsanjeev&label=Profile%20views&color=0e75b6&style=flat" alt="rawatsanjeev" /> </p>
 
@@ -16,7 +15,7 @@ Software Engineer, Data Scientist
 
 - 👯 I’m looking to collaborate on **web development projects.**
 
-- 💬 Ask me about **pandas,reactjs**
+- 💬 Ask me about **pandas,reactjs**.
 
 - 📫 How to reach me **sanjeev.rawat.pkd@gmail.com**
 
