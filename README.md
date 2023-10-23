@@ -7,7 +7,7 @@ Software Engineer, Data Scientist
 </p> 				 
 
 <p>I'm a Software Engineer who is passionate about creating technology and build community. I have experience in programming languages such as Java and Python and web development technologies like HTML, CSS, and JavaScript. </p>
-<h1>Find me around the web :earth_asia:</h1>
+<h1>Find me around the web 🌏</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rawatsanjeev&label=Profile%20views&color=0e75b6&style=flat" alt="rawatsanjeev" /> </p>
 
 - 🌱 I’m currently learning **Python/Django/pandas/javascript/react**
