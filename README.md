@@ -2,12 +2,10 @@
 <br>
 <h1>About Me</h1>
 <br>
-<body style="text-align: side;"> 
-	<h1>Sanjeev Kumar Rawat</h1> 
-	<p class="geeks"> 
-		Software Engineer, Data Scientist
-	</p> 
-</body> 				 
+<h1>Sanjeev Kumar Rawat</h1> 
+<p class="geeks"> 
+Software Engineer, Data Scientist
+</p> 				 
 
 
 <h3 align="center">A passionate web developer from India</h3>
