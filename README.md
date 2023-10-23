@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sanjeev Kumar Rawat</h1>
 
-<!DOCTYPE html> 
-<html> 
-
 <head> 
 	<style> 
 		geeks{ 
@@ -17,9 +14,7 @@
 	<p class="geeks"> 
 		Software Engineer, Data Scientist
 	</p> 
-</body> 
-
-</html>					 
+</body> 				 
 
 
 <h3 align="center">A passionate web developer from India</h3>
