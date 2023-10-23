@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanjeev Kumar Rawat</h1>
+<br>
+<h1>About Me</h1>
+<br>
 <body style="text-align: side;"> 
 	<h1>Sanjeev Kumar Rawat</h1> 
 	<p class="geeks"> 
