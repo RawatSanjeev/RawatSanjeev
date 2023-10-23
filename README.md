@@ -1,4 +1,27 @@
 <h1 align="center">Hi 👋, I'm Sanjeev Kumar Rawat</h1>
+
+<!DOCTYPE html> 
+<html> 
+
+<head> 
+	<style> 
+		.geeks{ 
+			color: green; 
+			font-size: 25px; 
+		} 
+	</style> 
+</head> 
+
+<body style="text-align: side;"> 
+	<h1>Sanjeev Kumar Rawat</h1> 
+	<p class="geeks"> 
+		Software Engineer, Data Scientist
+	</p> 
+</body> 
+
+</html>					 
+
+
 <h3 align="center">A passionate web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rawatsanjeev&label=Profile%20views&color=0e75b6&style=flat" alt="rawatsanjeev" /> </p>
