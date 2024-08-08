@@ -14,7 +14,7 @@ Software Engineer, Data Scientist
 
 - 👯 I’m looking to collaborate on **web development projects.**
 
-- 💬 Ask me about **pandas,reactjs**.
+- 💬 Ask me about **pandas,Django,reactjs**.
 
 - 📫 How to reach me **sanjeev.rawat.pkd@gmail.com**
 
